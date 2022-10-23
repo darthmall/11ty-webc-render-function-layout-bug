@@ -1,0 +1,6 @@
+<test-comp>Bare Component</test-comp>
+<script webc:type="render" webc:is="template">
+	function () {
+		return "<test-comp>Render function</test-comp>";
+	}
+</script>
